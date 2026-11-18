@@ -21,11 +21,23 @@
   </tr>
   <tr>
     <td colspan="2">
+      <b>services</b><br>
+      Business websites · Landing pages · E-commerce websites · Backend and API integration · Business systems and workflow automation · Website redesign and optimization
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
       <b>selected work</b><br>
       <a href="https://jminterior.co.ke">InteriorCraft</a> · portfolio and consultation booking for an interior design studio<br>
       <a href="https://gigva.co.ke">Gigva</a> · fintech platform for M-Pesa reconciliation<br>
       <a href="https://icow.co.ke">iCow</a> · agritech platform, backend development<br>
       <a href="https://shambapride.com">Shamba Pride</a> · <a href="https://avechi.co.ke">Avechi</a> · <a href="https://nyumbanisupportsolutions.com">Nyumbani</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <b>how I work</b><br>
+      <b>1. Discovery</b> understand the problem · <b>2. Planning & design</b> make a clear plan · <b>3. Development & testing</b> build and test with purpose · <b>4. Launch & support</b> go live with confidence
     </td>
   </tr>
   <tr>
@@ -71,6 +83,13 @@
       <img src="https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=F05032" alt="Git">
       <img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white" alt="GitHub">
       <img src="https://img.shields.io/badge/AWS-161b22?style=flat-square" alt="AWS">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <b>contact</b><br>
+      <a href="mailto:watershack712@gmail.com">watershack712@gmail.com</a> · <a href="https://wa.me/254716330149">WhatsApp</a> · <a href="https://www.tiktok.com/@waters.dev">TikTok @waters.dev</a> · <a href="https://waterstechsolutions.netlify.app">waterstechsolutions.netlify.app</a><br>
+      Based in Kenya · East Africa Time
     </td>
   </tr>
 </table>
